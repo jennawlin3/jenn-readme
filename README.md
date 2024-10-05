@@ -1,5 +1,5 @@
 # Hi I'm Jenn
-<h1 align="center">Hi 👋, I'm Jenn Acosta</h1>
+<h1 align="center">Hi :), I'm Jenn Acosta</h1>
 <h3 align="center">Web developer, passionate for code and design</h3>
 
 - 🌱 I’m currently learning **PHP and MySQL**
